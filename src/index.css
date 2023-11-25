@@ -1,0 +1,42 @@
+html, body  {
+  margin: 0 auto;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  font-weight: 100;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+.ant-layout {
+  background: #4CA1AF;
+  background: -webkit-linear-gradient(to right, #4CA1AF, #C4E0E5);
+  background: linear-gradient(to right, #4CA1AF, #C4E0E5);
+  text-align: center;
+  color: #fff;
+  height: 100vh;
+}
+.ant-layout-header {
+  width: 100%;
+  position: absolute;
+}
+.ant-layout-footer,
+.ant-layout-header {
+  background: transparent;
+  padding: 0;
+}
+.ant-layout-content > .ant-row {
+  min-height: 100%;
+}
+.ant-layout-footer {
+  padding: 0;
+}
+.ant-layout-footer .ant-btn-link {
+  color: rgba(0, 0, 0, 0.35);
+}
+.ant-layout-footer .ant-col a {
+  font-weight: 200;
+  padding-left: 0;
+  padding-right: 0;
+}
+.ant-layout-footer .ant-col,
+.ant-layout-content .ant-col {
+  text-align: center;
+}
