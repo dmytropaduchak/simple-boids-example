@@ -1,6 +1,6 @@
 {
-  "short_name": "Simple Boids",
-  "name": "Simple Boids",
+  "short_name": "Simple Boids Example",
+  "name": "Simple Boids Example",
   "icons": [
     {
       "src": "favicon.ico",
