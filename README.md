@@ -1,9 +1,7 @@
 # 🇺🇦 HELP UKRAINE
 
-GOOD EVENING WE ARE FROM UKRAINE.
-
 We fight for democratic values, for freedom, for our future. We need your support. 
-There are dozen ways to help us, [JUST DO IT](https://github.com/pinchukdiana/help-ua#-%D1%87%D0%B0%D1%82-%D0%B1%D0%BE%D1%82%D0%B8--chat-bots).
+Solidarity with the Ukrainian people against the Russian invasion [Find out how you can help.](https://war.ukraine.ua/support-ukraine/).
 
 # Simple Boids Example
 
